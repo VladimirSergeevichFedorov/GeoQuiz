@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="next_ImageButton" type="id" />
+    <item name="prev_ImageButton" type="id" />
+    <item name="next_Button" type="id" />
+</resources>
